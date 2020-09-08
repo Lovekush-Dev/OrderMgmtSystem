@@ -1,5 +1,5 @@
 # Order Management System
-Small application written in NodeJS+Angular to demonstrate order management system.
+Small application written in NodeJS and Angular to demonstrate order management system.
 
 #### Install project dependencies
 
